@@ -1,2 +1,2 @@
 # Projeto_Teste_Zelda
- Projeto com Hmtl e Css + UI DESIGN
+ Projeto de HTML, CSS, JavaScript e UIDesing
